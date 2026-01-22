@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o Gian 🧑‍💻
 
 🖥️ Sou um profissional de TI com **7 anos** de atuação no mercado e graduado em **Sistemas para Internet**. 
-Já trabalhei como Operador Técnico, Analista de Sistemas, Técnico de TI (autônomo) e estou em busca de novas oportunidades. `#OpenToWork`
+Já trabalhei como Operador Técnico, Analista de Sistemas e Técnico de TI. Estou em busca de novas oportunidades. **`#OpenToWork`**
 
 ✨ Em **2026** decidi mudar! Iniciei minha transição de carreira e comecei meus estudos para me tornar um **Desenvolvedor Full Stack**.
 
