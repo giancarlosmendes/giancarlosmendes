@@ -6,14 +6,14 @@ Já trabalhei como Operador Técnico, Analista de Sistemas e Técnico de TI. Est
 ✨ Em **2026** decidi mudar! Iniciei minha transição de carreira e comecei meus estudos para me tornar um **Desenvolvedor Full Stack**.
 
 🚀 Nesse espaço vou registrar todo meu progresso e projetos desenvolvidos ao longo dessa jornada.
-
+<!--
 ---
 
 ### 📊 Estatísticas do meu GitHub
 
 [![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=giancarlosmendes&theme=github_dark&show_icons=true&locale=pt-br&hide_border=true&rank_icon=github&hide_title=true&commits_year=2026&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=giancarlosmendes&theme=github_dark&layout=compact&locale=pt-br&hide_border=true&langs_count=8&custom_title=Linguagens%20mais%20utilizadas)
-
+-->
 ---
 
 <div align="center">
