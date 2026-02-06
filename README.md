@@ -40,45 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 30 January 2026 - To: 06 February 2026
+
+Total Time: 10 mins
+
 Markdown   10 mins         █████████████████████████   100.00 %
 ```
 
-<!--END_SECTION:waka-->
-
-</details>
-
-<details open>
-    <summary><h4>📖 Estudando no Momento</h4></summary>
-
-<a href="https://github.com/giancarlosmendes/curso-git-github-2025"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=giancarlosmendes&repo=curso-git-github-2025&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&description_lines_count=3" alt="curso-git-github-2025"></a>
-
-</details>
-
-<details>
-    <summary><h4>📘 Cursos Concluídos</h4></summary>
-
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/giancarlosmendes/curso-java-basico-cursoemvideo"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=giancarlosmendes&repo=curso-java-basico-cursoemvideo&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&description_lines_count=3" alt="ccurso-java-basico-cursoemvideo"></a>
-
-</details>
-
-<details>
-    <summary><h4>🗂️ Projetos Concluídos</h4></summary>
-
-&nbsp;&nbsp;&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=Nada+por+aqui+ainda+.+.+.;Em+breve!)](https://git.io/typing-svg)
-
-</details>
-
-</details>
-
----
-
-<details open>
-    <summary><h3>📊 Estatísticas do meu GitHub</h3></summary>
-
-<details open>
-    <summary><h4>🕒 Tempo de Codificação</h4></summary>
-
-<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 </details>
