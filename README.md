@@ -37,7 +37,20 @@
 <details open>
     <summary><h4>📗 Em andamento</h4></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/giancarlosmendes/curso-git-github-2025"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=giancarlosmendes&repo=curso-git-github-2025&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&description_lines_count=3" alt="curso-git-github-2025"></a>
+<!--START_SECTION:waka-->
+
+```txt
+Markdown   10 mins         █████████████████████████   100.00 %
+```
+
+<!--END_SECTION:waka-->
+
+</details>
+
+<details open>
+    <summary><h4>📖 Estudando no Momento</h4></summary>
+
+<a href="https://github.com/giancarlosmendes/curso-git-github-2025"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=giancarlosmendes&repo=curso-git-github-2025&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&description_lines_count=3" alt="curso-git-github-2025"></a>
 
 </details>
 
