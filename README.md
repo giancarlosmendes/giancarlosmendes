@@ -28,38 +28,6 @@
 ---
 
 <details open>
-    <summary><h3>📚 Estudos</h3></summary>
-
-<!-- MODELO DE CARD: Para adicionar um novo card copie a linha abaixo e modifique as informações
-<a href="url-do-repositorio"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=nome-do-usuario&repo=nome-do-repositorio&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&description_lines_count=3" alt="nome-do-repositorio"></a>
--->
-
-<details open>
-    <summary><h4>📗 Em andamento</h4></summary>
-
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/giancarlosmendes/curso-git-github-2025"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=giancarlosmendes&repo=curso-git-github-2025&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&description_lines_count=3" alt="curso-git-github-2025"></a>
-
-</details>
-
-<details>
-    <summary><h4>📘 Cursos Concluídos</h4></summary>
-
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/giancarlosmendes/curso-java-basico-cursoemvideo"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=giancarlosmendes&repo=curso-java-basico-cursoemvideo&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&description_lines_count=3" alt="ccurso-java-basico-cursoemvideo"></a>
-
-</details>
-
-<details>
-    <summary><h4>🗂️ Projetos Concluídos</h4></summary>
-
-&nbsp;&nbsp;&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=Nada+por+aqui+ainda+.+.+.;Em+breve!)](https://git.io/typing-svg)
-
-</details>
-
-</details>
-
----
-
-<details open>
     <summary><h3>📊 Estatísticas do meu GitHub</h3></summary>
 
 <details open>
@@ -83,13 +51,45 @@
 ---
 
 <details open>
+    <summary><h3>📚 Estudos</h3></summary>
+
+<!-- MODELO DE CARD: Para adicionar um novo card copie a linha abaixo e modifique as informações
+<a href="url-do-repositorio"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=nome-do-usuario&repo=nome-do-repositorio&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&description_lines_count=3" alt="nome-do-repositorio"></a>
+-->
+
+<details open>
+    <summary><h4>📗 Em andamento</h4></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/giancarlosmendes/curso-git-github-2025"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=giancarlosmendes&repo=curso-git-github-2025&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&description_lines_count=3" alt="curso-git-github-2025"></a>
+
+</details>
+
+<details open>
+    <summary><h4>📘 Cursos Concluídos</h4></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/giancarlosmendes/curso-java-basico-cursoemvideo"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=giancarlosmendes&repo=curso-java-basico-cursoemvideo&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&description_lines_count=3" alt="ccurso-java-basico-cursoemvideo"></a>
+
+</details>
+
+<details>
+    <summary><h4>🗂️ Projetos Concluídos</h4></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=Nada+por+aqui+ainda+.+.+.;Em+breve!)](https://git.io/typing-svg)
+
+</details>
+
+</details>
+
+---
+
+<details open>
     <summary><h3>💻 Tecnologias e Ferramentas</h3></summary>
 
-<div align="left">
+<div align="center">
 
 ##### 🧑‍💻 Linguagens de Programação, Script e Marcação
 
-&nbsp; ![Python](https://custom-icon-badges.demolab.com/badge/Python-★☆☆-_?style=flat&logo=python-logo-icon&labelColor=181717&color=263d30)
+![Python](https://custom-icon-badges.demolab.com/badge/Python-★☆☆-_?style=flat&logo=python-logo-icon&labelColor=181717&color=263d30)
 &nbsp; ![Groovy](https://custom-icon-badges.demolab.com/badge/Groovy-★☆☆-_?style=flat&logo=groovy-icon&labelColor=181717&color=263d30)
 &nbsp; ![Java](https://custom-icon-badges.demolab.com/badge/Java-★☆☆-_?style=flat&logo=java-logo-icon&labelColor=181717&color=263d30)
 &nbsp; ![Shell Script](https://custom-icon-badges.demolab.com/badge/Shell_Script-★☆☆-_?style=flat&logo=bash-icon&labelColor=181717&color=263d30)
@@ -98,14 +98,13 @@
 
 ##### 🛠️ Softwares e Ferramentas
 
-&nbsp; ![Git](https://custom-icon-badges.demolab.com/badge/Git-★★☆-_?style=flat&logo=git-icon-custom&labelColor=181717&color=233850)
+![Git](https://custom-icon-badges.demolab.com/badge/Git-★★☆-_?style=flat&logo=git-icon-custom&labelColor=181717&color=233850)
 &nbsp; ![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-★★☆-_?style=flat&logo=github-icon&labelColor=181717&color=233850)
 &nbsp; ![GitHub Desktop](https://custom-icon-badges.demolab.com/badge/GitHub_Desktop-★☆☆-_?style=flat&logo=github-desktop-icon&labelColor=181717&color=263d30)
 &nbsp; ![GitLab](https://custom-icon-badges.demolab.com/badge/GitLab-★☆☆-_?style=flat&logo=gitlab-icon&labelColor=181717&color=263d30)
 &nbsp; ![VS Code](https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-★★☆-_?style=flat&logo=vscode-logo-icon&labelColor=181717&color=233850)
 &nbsp; ![NetBeans](https://custom-icon-badges.demolab.com/badge/NetBeans_8.2-★☆☆-_?style=flat&logo=netbeans-logo-old-icon&labelColor=181717&color=263d30)
 &nbsp; ![Linux](https://custom-icon-badges.demolab.com/badge/Linux-★☆☆-_?style=flat&logo=linux-icon&labelColor=181717&color=263d30)
-
 &nbsp; ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-★★☆-_?style=flat&logo=windows-icon&labelColor=181717&color=233850)
 &nbsp; ![Word](https://custom-icon-badges.demolab.com/badge/Word-★★☆-_?style=flat&logo=microsoft-word-icon&labelColor=181717&color=233850)
 &nbsp; ![Excel](https://custom-icon-badges.demolab.com/badge/Excel-★☆☆-_?style=flat&logo=microsoft-excel-icon&labelColor=181717&color=263d30)
@@ -136,7 +135,7 @@
 <details open>
     <summary><h3>💡 Soft Skills</h3></summary>
 
-<div align="left">
+<div align="center">
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![Criatividade](https://custom-icon-badges.demolab.com/badge/Criatividade-181717?style=plastic&logo=criatividade-icon)
 &nbsp; ![Gestao de Demandas](https://custom-icon-badges.demolab.com/badge/Gest%C3%A3o%20de%20Demandas-181717?style=plastic&logo=gestao-demandas-icon)
