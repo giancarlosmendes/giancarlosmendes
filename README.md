@@ -38,6 +38,11 @@
     <summary><h4>📈 Estatística da Semana</h4></summary>
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown   10 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 </details>
