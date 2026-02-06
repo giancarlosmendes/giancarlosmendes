@@ -24,4 +24,4 @@ jobs:
           LANG_COUNT: 5
           SHOW_TIME: true
           ## commit
-          COMMIT_MESSAGE: docs: atualiza `README.md`
+          COMMIT_MESSAGE: 'docs: atualiza `README.md`'
