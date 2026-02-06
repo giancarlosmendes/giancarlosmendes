@@ -30,19 +30,15 @@
 <details open>
     <summary><h3>📊 Estatísticas do meu GitHub</h3></summary>
 
+[![Estatísticas GitHub](https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api?username=giancarlosmendes&theme=github_dark&show_icons=true&locale=pt-br&hide_border=true&rank_icon=github&hide_title=true&commits_year=2026&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
+![Top Linguagens](https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/top-langs/?username=giancarlosmendes&theme=github_dark&layout=compact&locale=pt-br&hide_border=true&langs_count=8&custom_title=Linguagens%20mais%20utilizadas)
+
+
 <details open>
-    <summary><h4>🕒 Tempo de Codificação</h4></summary>
+    <summary>🕒 Tempo de Codificação</summary>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-</details>
-
-<details open>
-    <summary><h4>📈 Estatísticas Gerais</h4></summary>
-
-[![Estatísticas GitHub](https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api?username=giancarlosmendes&theme=github_dark&show_icons=true&locale=pt-br&hide_border=true&rank_icon=github&hide_title=true&commits_year=2026&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
-![Top Linguagens](https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/top-langs/?username=giancarlosmendes&theme=github_dark&layout=compact&locale=pt-br&hide_border=true&langs_count=8&custom_title=Linguagens%20mais%20utilizadas)
 
 </details>
 
@@ -54,25 +50,25 @@
     <summary><h3>📚 Estudos</h3></summary>
 
 <!-- MODELO DE CARD: Para adicionar um novo card copie a linha abaixo e modifique as informações
-<a href="url-do-repositorio"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=nome-do-usuario&repo=nome-do-repositorio&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&description_lines_count=3" alt="nome-do-repositorio"></a>
+<a href="url-do-repositorio"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=nome-do-usuario&repo=nome-do-repositorio&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&border_radius=10&description_lines_count=3" alt="nome-do-repositorio"></a>
 -->
 
 <details open>
     <summary><h4>📗 Em andamento</h4></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/giancarlosmendes/curso-git-github-2025"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=giancarlosmendes&repo=curso-git-github-2025&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&description_lines_count=3" alt="curso-git-github-2025"></a>
-
-</details>
-
-<details open>
-    <summary><h4>📘 Cursos Concluídos</h4></summary>
-
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/giancarlosmendes/curso-java-basico-cursoemvideo"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=giancarlosmendes&repo=curso-java-basico-cursoemvideo&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&description_lines_count=3" alt="ccurso-java-basico-cursoemvideo"></a>
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/giancarlosmendes/curso-git-github-2025"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=giancarlosmendes&repo=curso-git-github-2025&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&border_radius=10&description_lines_count=3" alt="curso-git-github-2025"></a>
 
 </details>
 
 <details>
-    <summary><h4>🗂️ Projetos Concluídos</h4></summary>
+    <summary><h4>📘 Cursos concluídos</h4></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/giancarlosmendes/curso-java-basico-cursoemvideo"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=giancarlosmendes&repo=curso-java-basico-cursoemvideo&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&border_radius=10&description_lines_count=3" alt="ccurso-java-basico-cursoemvideo"></a>
+
+</details>
+
+<details>
+    <summary><h4>🗂️ Projetos concluídos</h4></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=Nada+por+aqui+ainda+.+.+.;Em+breve!)](https://git.io/typing-svg)
 

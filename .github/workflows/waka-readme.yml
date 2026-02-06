@@ -19,8 +19,9 @@ jobs:
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: giancarlosmendes/giancarlosmendes # optional
           ## content
-          SHOW_TITLE: true # optional
-          TIME_RANGE: last_7_days # optional
-          LANG_COUNT: 5 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
+          SHOW_TITLE: true
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          SHOW_TIME: true
+          ## commit
+          COMMIT_MESSAGE: docs: atualiza `README.md`
