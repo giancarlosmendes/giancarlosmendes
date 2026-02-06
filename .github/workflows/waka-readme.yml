@@ -19,7 +19,7 @@ jobs:
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: giancarlosmendes/giancarlosmendes # optional
           ## content
-          SHOW_TITLE: true
+          SHOW_TITLE: false
           TIME_RANGE: last_7_days
           LANG_COUNT: 5
           SHOW_TIME: true

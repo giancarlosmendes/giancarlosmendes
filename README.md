@@ -35,7 +35,7 @@
 
 
 <details>
-    <summary>🕒 Tempo de Codificação</summary>
+    <summary>🕒 Codificação da última semana</summary>
 
 <!--START_SECTION:waka-->
 
