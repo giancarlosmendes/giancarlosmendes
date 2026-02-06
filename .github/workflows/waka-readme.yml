@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "* * * * *"
+    - cron: "0 */6 * * *" # run every 6 hours
 
 jobs:
   update-readme:
@@ -18,3 +18,9 @@ jobs:
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: giancarlosmendes/giancarlosmendes # optional
+          ## content
+          SHOW_TITLE: true # optional
+          TIME_RANGE: last_7_days # optional
+          LANG_COUNT: 5 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional

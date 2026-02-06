@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Gian
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=25&duration=8000&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Gian!)](https://git.io/typing-svg)
 
 :desktop_computer: Profissional de TI com **10 anos** de atuação no mercado.
 
@@ -35,7 +35,7 @@
 -->
 
 <details open>
-    <summary><h4>📈 Estatística da Semana</h4></summary>
+    <summary><h4>📗 Em andamento</h4></summary>
 
 <!--START_SECTION:waka-->
 
@@ -57,15 +57,16 @@ Markdown   10 mins         █████████████████�
 <details>
     <summary><h4>📘 Cursos Concluídos</h4></summary>
 
-<a href="https://github.com/giancarlosmendes/curso-java-basico-cursoemvideo"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=giancarlosmendes&repo=curso-java-basico-cursoemvideo&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&description_lines_count=3" alt="ccurso-java-basico-cursoemvideo"></a>
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/giancarlosmendes/curso-java-basico-cursoemvideo"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=giancarlosmendes&repo=curso-java-basico-cursoemvideo&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&description_lines_count=3" alt="ccurso-java-basico-cursoemvideo"></a>
 
 </details>
 
-<!--
 <details>
     <summary><h4>🗂️ Projetos Concluídos</h4></summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=Nada+por+aqui+ainda+.+.+.;Em+breve!)](https://git.io/typing-svg)
+
 </details>
--->
 
 </details>
 
@@ -74,8 +75,21 @@ Markdown   10 mins         █████████████████�
 <details open>
     <summary><h3>📊 Estatísticas do meu GitHub</h3></summary>
 
+<details open>
+    <summary><h4>🕒 Tempo de Codificação</h4></summary>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
+
+<details open>
+    <summary><h4>📈 Estatísticas Gerais</h4></summary>
+
 [![Estatísticas GitHub](https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api?username=giancarlosmendes&theme=github_dark&show_icons=true&locale=pt-br&hide_border=true&rank_icon=github&hide_title=true&commits_year=2026&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Linguagens](https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/top-langs/?username=giancarlosmendes&theme=github_dark&layout=compact&locale=pt-br&hide_border=true&langs_count=8&custom_title=Linguagens%20mais%20utilizadas)
+
+</details>
 
 </details>
 
