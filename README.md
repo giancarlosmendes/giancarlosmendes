@@ -34,7 +34,7 @@
 ![Top Linguagens](https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/top-langs/?username=giancarlosmendes&theme=github_dark&layout=compact&locale=pt-br&hide_border=true&langs_count=8&custom_title=Linguagens%20mais%20utilizadas)
 
 
-<details open>
+<details>
     <summary>🕒 Tempo de Codificação</summary>
 
 <!--START_SECTION:waka-->
