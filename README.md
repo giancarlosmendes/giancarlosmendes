@@ -1,89 +1,145 @@
-## 👋 Olá, eu sou o Gian 🧑‍💻
+## 👋 Olá, eu sou o Gian
 
-🖥️ Sou um profissional de TI com **7 anos** de atuação no mercado e graduado em **Sistemas para Internet**. 
-Já trabalhei como Operador Técnico, Analista de Sistemas e Técnico de TI. Estou em busca de novas oportunidades. **`#OpenToWork`**
+:desktop_computer: Profissional de TI com **10 anos** de atuação no mercado.
 
-✨ Em **2026** decidi mudar! Iniciei minha transição de carreira e comecei meus estudos para me tornar um **Desenvolvedor Full Stack**.
+:mortar_board: Tecnólogo em **Sistemas para Internet**.
 
-🚀 Nesse espaço vou registrar todo meu progresso e projetos desenvolvidos ao longo dessa jornada.
-<!--
+:briefcase: Em busca de novas oportunidades. [**`#OpenToWork`**](https://www.linkedin.com/in/giancarlosmendes/)
+
+:sparkles: Em **2026** iniciei minha transição de carreira para me tornar um **Dev Full Stack**.
+
+:rocket: Nesse espaço vou registrar todo meu progresso ao longo dessa jornada.
+
 ---
 
-### 📊 Estatísticas do meu GitHub
+<details>
+    <summary><h3>👨‍💻 Meus Projetos</h3></summary>
 
-[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=giancarlosmendes&theme=github_dark&show_icons=true&locale=pt-br&hide_border=true&rank_icon=github&hide_title=true&commits_year=2026&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=giancarlosmendes&theme=github_dark&layout=compact&locale=pt-br&hide_border=true&langs_count=8&custom_title=Linguagens%20mais%20utilizadas)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Em+constru%C3%A7%C3%A3o+.+.+.)](https://git.io/typing-svg)
+
+<img src="https://github.com/user-attachments/assets/22600586-d48d-4824-b5c7-aef978f4f336" width="300" height="300">
+
+<div>
+
+</details>
+
+---
+
+<details open>
+    <summary><h3>📚 Estudos</h3></summary>
+
+<!-- MODELO DE CARD: Para adicionar um novo card copie a linha abaixo e modifique as informações
+<a href="url-do-repositorio"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=nome-do-usuario&repo=nome-do-repositorio&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&description_lines_count=3" alt="nome-do-repositorio"></a>
 -->
+
+<details open>
+    <summary><h4>📈 Estatística da Semana</h4></summary>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
+
+<details open>
+    <summary><h4>📖 Estudando no Momento</h4></summary>
+
+<a href="https://github.com/giancarlosmendes/curso-git-github-2025"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=giancarlosmendes&repo=curso-git-github-2025&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&description_lines_count=3" alt="curso-git-github-2025"></a>
+
+</details>
+
+<details>
+    <summary><h4>📘 Cursos Concluídos</h4></summary>
+
+<a href="https://github.com/giancarlosmendes/curso-java-basico-cursoemvideo"><img width="360" src="https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/pin/?username=giancarlosmendes&repo=curso-java-basico-cursoemvideo&theme=github_dark_dimmed&hide_border=true&icon_color=0098FF&title_color=0098FF&description_lines_count=3" alt="ccurso-java-basico-cursoemvideo"></a>
+
+</details>
+
+<!--
+<details>
+    <summary><h4>🗂️ Projetos Concluídos</h4></summary>
+</details>
+-->
+
+</details>
+
 ---
 
-<div align="center">
+<details open>
+    <summary><h3>📊 Estatísticas do meu GitHub</h3></summary>
 
-### 💡 Soft Skills
+[![Estatísticas GitHub](https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api?username=giancarlosmendes&theme=github_dark&show_icons=true&locale=pt-br&hide_border=true&rank_icon=github&hide_title=true&commits_year=2026&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
+![Top Linguagens](https://github-readme-stats-rouge-seven-j0vvksc4ga.vercel.app/api/top-langs/?username=giancarlosmendes&theme=github_dark&layout=compact&locale=pt-br&hide_border=true&langs_count=8&custom_title=Linguagens%20mais%20utilizadas)
 
-![Criatividade](https://custom-icon-badges.demolab.com/badge/Criatividade-181717?style=flat&logo=criatividade-icon)
-![Gestao de Demandas](https://custom-icon-badges.demolab.com/badge/Gest%C3%A3o%20de%20Demandas-181717?style=flat&logo=gestao-demandas-icon)
-![Pensamento Critico](https://custom-icon-badges.demolab.com/badge/Pensamento%20Cr%C3%ADtico-181717?style=flat&logo=pensamento-critico-icon)
-![Resolucao de Problemas](https://custom-icon-badges.demolab.com/badge/Resolu%C3%A7%C3%A3o%20de%20Problemas-181717?style=flat&logo=resolucao-problemas-icon)
-![Trabalho em Equipe](https://custom-icon-badges.demolab.com/badge/Trabalho%20em%20Equipe-181717?style=flat&logo=trabalho-em-equipe-icon)
-
-</div>
+</details>
 
 ---
 
-<div align="center">
+<details open>
+    <summary><h3>💻 Tecnologias e Ferramentas</h3></summary>
 
-### 💻 Tecnologias e Ferramentas
+<div align="left">
 
-#### Sistemas Operacionais:
+##### 🧑‍💻 Linguagens de Programação, Script e Marcação
 
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-★★-_?style=flat&logo=windows-icon&labelColor=181717&color=416b97)
-&nbsp; ![Linux](https://custom-icon-badges.demolab.com/badge/Linux-★-_?style=flat&logo=linux-icon&labelColor=181717&color=46765b)
+&nbsp; ![Python](https://custom-icon-badges.demolab.com/badge/Python-★☆☆-_?style=flat&logo=python-logo-icon&labelColor=181717&color=263d30)
+&nbsp; ![Groovy](https://custom-icon-badges.demolab.com/badge/Groovy-★☆☆-_?style=flat&logo=groovy-icon&labelColor=181717&color=263d30)
+&nbsp; ![Java](https://custom-icon-badges.demolab.com/badge/Java-★☆☆-_?style=flat&logo=java-logo-icon&labelColor=181717&color=263d30)
+&nbsp; ![Shell Script](https://custom-icon-badges.demolab.com/badge/Shell_Script-★☆☆-_?style=flat&logo=bash-icon&labelColor=181717&color=263d30)
+&nbsp; ![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-★☆☆-_?style=flat&logo=powershell-icon&labelColor=181717&color=263d30)
+&nbsp; ![Markdown](https://custom-icon-badges.demolab.com/badge/Markdown-★★☆-_?style=flat&logo=markdown-icon&labelColor=181717&color=233850)
 
-#### Linguagens:
+##### 🛠️ Softwares e Ferramentas
 
-![Python](https://custom-icon-badges.demolab.com/badge/Python-★-_?style=flat&logo=python-logo-icon&labelColor=181717&color=46765b)
-&nbsp; ![Groovy](https://custom-icon-badges.demolab.com/badge/Groovy-★-_?style=flat&logo=groovy-icon&labelColor=181717&color=46765b)
-&nbsp; ![Java](https://custom-icon-badges.demolab.com/badge/Java-☆-_?style=flat&logo=java-logo-icon&labelColor=181717&color=424241)
-&nbsp; ![Shell Script](https://custom-icon-badges.demolab.com/badge/Shell_Script-★-_?style=flat&logo=bash-icon&labelColor=181717&color=46765b)
-&nbsp; ![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-☆-_?style=flat&logo=powershell-icon&labelColor=181717&color=424241)
-&nbsp; ![Markdown](https://custom-icon-badges.demolab.com/badge/Markdown-★★-_?style=flat&logo=markdown-icon&labelColor=181717&color=416b97)
+&nbsp; ![Git](https://custom-icon-badges.demolab.com/badge/Git-★★☆-_?style=flat&logo=git-icon-custom&labelColor=181717&color=233850)
+&nbsp; ![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-★★☆-_?style=flat&logo=github-icon&labelColor=181717&color=233850)
+&nbsp; ![GitHub Desktop](https://custom-icon-badges.demolab.com/badge/GitHub_Desktop-★☆☆-_?style=flat&logo=github-desktop-icon&labelColor=181717&color=263d30)
+&nbsp; ![GitLab](https://custom-icon-badges.demolab.com/badge/GitLab-★☆☆-_?style=flat&logo=gitlab-icon&labelColor=181717&color=263d30)
+&nbsp; ![VS Code](https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-★★☆-_?style=flat&logo=vscode-logo-icon&labelColor=181717&color=233850)
+&nbsp; ![NetBeans](https://custom-icon-badges.demolab.com/badge/NetBeans_8.2-★☆☆-_?style=flat&logo=netbeans-logo-old-icon&labelColor=181717&color=263d30)
+&nbsp; ![Linux](https://custom-icon-badges.demolab.com/badge/Linux-★☆☆-_?style=flat&logo=linux-icon&labelColor=181717&color=263d30)
 
-#### Versionamento de código:
-
-![Git](https://custom-icon-badges.demolab.com/badge/Git-★★-_?style=flat&logo=git-icon-custom&labelColor=181717&color=416b97)
-&nbsp; ![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-★★-_?style=flat&logo=github-icon&labelColor=181717&color=416b97)
-&nbsp; ![GitLab](https://custom-icon-badges.demolab.com/badge/GitLab-★-_?style=flat&logo=gitlab-icon&labelColor=181717&color=46765b)
-
-#### IDE's:
-
-![VS Code](https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-★-_?style=flat&logo=vscode-logo-icon&labelColor=181717&color=46765b)
-&nbsp; ![NetBeans](https://custom-icon-badges.demolab.com/badge/NetBeans_8.2-★-_?style=flat&logo=netbeans-logo-old-icon&labelColor=181717&color=46765b)
-
-#### Ferramentas de automação:
-
-![Jenkins](https://custom-icon-badges.demolab.com/badge/Jenkins-★-_?style=flat&logo=jenkins-head-icon&labelColor=181717&color=46765b)
-&nbsp; ![BMC BAO](https://custom-icon-badges.demolab.com/badge/BMC_Atrium_Orchestrator-★★-_?style=flat&logo=bmc-icon&labelColor=181717&color=416b97)
-
-#### Microsoft 365:
-
-![Word](https://custom-icon-badges.demolab.com/badge/Word-★★-_?style=flat&logo=microsoft-word-icon&labelColor=181717&color=416b97)
-&nbsp; ![Excel](https://custom-icon-badges.demolab.com/badge/Excel-★-_?style=flat&logo=microsoft-excel-icon&labelColor=181717&color=46765b)
-&nbsp; ![PowerPoint](https://custom-icon-badges.demolab.com/badge/PowerPoint-★-_?style=flat&logo=microsoft-powerpoint-icon&labelColor=181717&color=46765b)
-&nbsp; ![Outlook](https://custom-icon-badges.demolab.com/badge/Outlook-★★-_?style=flat&logo=microsoft-outlook-icon&labelColor=181717&color=416b97)
+&nbsp; ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-★★☆-_?style=flat&logo=windows-icon&labelColor=181717&color=233850)
+&nbsp; ![Word](https://custom-icon-badges.demolab.com/badge/Word-★★☆-_?style=flat&logo=microsoft-word-icon&labelColor=181717&color=233850)
+&nbsp; ![Excel](https://custom-icon-badges.demolab.com/badge/Excel-★☆☆-_?style=flat&logo=microsoft-excel-icon&labelColor=181717&color=263d30)
+&nbsp; ![PowerPoint](https://custom-icon-badges.demolab.com/badge/PowerPoint-★☆☆-_?style=flat&logo=microsoft-powerpoint-icon&labelColor=181717&color=263d30)
+&nbsp; ![Outlook](https://custom-icon-badges.demolab.com/badge/Outlook-★★☆-_?style=flat&logo=microsoft-outlook-icon&labelColor=181717&color=233850)
+&nbsp; ![Jenkins](https://custom-icon-badges.demolab.com/badge/Jenkins-★☆☆-_?style=flat&logo=jenkins-head-icon&labelColor=181717&color=263d30)
+&nbsp; ![BMC BAO](https://custom-icon-badges.demolab.com/badge/BMC_Atrium_Orchestrator-★★☆-_?style=flat&logo=bmc-icon&labelColor=181717&color=233850)
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 <details>
     <summary><kbd>Legenda</kbd></summary>
 
-| Iniciante | Básico | Intermediário | Avançado |
-| :---: | :---: | :---: | :---: |
-| ![iniciante](https://img.shields.io/badge/☆-424241) | ![basico](https://img.shields.io/badge/★-46765b) | ![intermediario](https://img.shields.io/badge/★★-416b97) | ![avancado](https://img.shields.io/badge/★★★-9d5650) |
+| Iniciante | Intermediário | Avançado |
+| :---: | :---: | :---: |
+| ![iniciante](https://img.shields.io/badge/★☆☆-263d30) | ![intermediario](https://img.shields.io/badge/★★☆-233850) | ![avancado](https://img.shields.io/badge/★★★-502c29) |
 
 </details>
 
 </div>
+
+</details>
+
+---
+
+<details open>
+    <summary><h3>💡 Soft Skills</h3></summary>
+
+<div align="left">
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![Criatividade](https://custom-icon-badges.demolab.com/badge/Criatividade-181717?style=plastic&logo=criatividade-icon)
+&nbsp; ![Gestao de Demandas](https://custom-icon-badges.demolab.com/badge/Gest%C3%A3o%20de%20Demandas-181717?style=plastic&logo=gestao-demandas-icon)
+&nbsp; ![Pensamento Critico](https://custom-icon-badges.demolab.com/badge/Pensamento%20Cr%C3%ADtico-181717?style=plastic&logo=pensamento-critico-icon)
+&nbsp; ![Resolucao de Problemas](https://custom-icon-badges.demolab.com/badge/Resolu%C3%A7%C3%A3o%20de%20Problemas-181717?style=plastic&logo=resolucao-problemas-icon)
+&nbsp; ![Trabalho em Equipe](https://custom-icon-badges.demolab.com/badge/Trabalho%20em%20Equipe-181717?style=plastic&logo=trabalho-em-equipe-icon)
+
+</div>
+
+</details>
 
 ---
